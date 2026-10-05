@@ -1,10 +1,18 @@
 [
-  {
-    "id": "test-1",
-    "title": "Beispiel-Polizeimeldung: Schusswaffeneinsatz",
-    "date": "2026-10-05",
-    "location": "Berlin",
-    "summary": "Dies ist ein manueller Testeintrag, um zu prüfen, ob die Website die Daten korrekt anzeigt.",
-    "source_url": "https://www.presseportal.de"
-  }
+    {
+        "id": 1791237875,
+        "date": "2026-10-05 22:04",
+        "city": "Musterstadt",
+        "title": "Automatisierter Test-Eintrag durch GitHub Action",
+        "source": "Polizei-Test",
+        "description": "Dieses ist ein automatisierter Testeintrag, der zeigt, dass die GitHub Action erfolgreich lief."
+    },
+    {
+        "id": "test-1",
+        "title": "Beispiel-Polizeimeldung: Schusswaffeneinsatz",
+        "date": "2026-10-05",
+        "location": "Berlin",
+        "summary": "Dies ist ein manueller Testeintrag, um zu prüfen, ob die Website die Daten korrekt anzeigt.",
+        "source_url": "https://www.presseportal.de"
+    }
 ]
