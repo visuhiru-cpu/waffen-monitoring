@@ -1,5 +1,13 @@
 [
     {
+        "id": 1791482689,
+        "date": "2026-10-08 18:04",
+        "city": "Musterstadt",
+        "title": "Automatisierter Test-Eintrag durch GitHub Action",
+        "source": "Polizei-Test",
+        "description": "Dieses ist ein automatisierter Testeintrag, der zeigt, dass die GitHub Action erfolgreich lief."
+    },
+    {
         "id": 1791475619,
         "date": "2026-10-08 16:06",
         "city": "Musterstadt",
